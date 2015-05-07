@@ -9,12 +9,13 @@ package estudios;
  */
 public class Profesor {
 
-	/**
-	 * @param args
-	 */
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public Profesor(){
+		
 	}
+	
+	public boolean esProfesor(){
+		return false;
+	}
+	
 
 }
