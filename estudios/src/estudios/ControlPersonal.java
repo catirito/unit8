@@ -14,7 +14,7 @@ public class ControlPersonal {
 	 */
 	public static void main(String[] args) {
 		
-		Asignatura Sistemas = new Asignatura("sistemas");
+		Asignatura BBDD = new Asignatura("BBDD");
 		Asignatura programacion = new Asignatura("programacion");
 		Asignatura Entronos = new Asignatura("Entronos");
 		
