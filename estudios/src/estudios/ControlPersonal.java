@@ -17,6 +17,7 @@ public class ControlPersonal {
 		Asignatura BBDD = new Asignatura("BBDD");
 		Asignatura programacion = new Asignatura("programacion");
 		Asignatura Entronos = new Asignatura("Entronos");
+		Asignatura LenguajeMarcas = new Asignatura("Lenguaje de marcas");
 		
 		//TODO: Todo lo demas....
 		
