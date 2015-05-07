@@ -13,7 +13,13 @@ public class ControlPersonal {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		Asignatura Sistemas = new Asignatura("sistemas");
+		Asignatura programacion = new Asignatura("programacion");
+		Asignatura Entronos = new Asignatura("Entronos");
+		
+		//TODO: Todo lo demas....
+		
 
 	}
 
